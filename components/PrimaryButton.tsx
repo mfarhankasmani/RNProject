@@ -1,4 +1,10 @@
-import { View, Text, Pressable, StyleSheet, GestureResponderEvent } from "react-native";
+import {
+  View,
+  Text,
+  Pressable,
+  StyleSheet,
+  GestureResponderEvent
+} from "react-native";
 
 interface PrimaryButtonProp {
   children: React.ReactNode;
